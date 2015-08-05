@@ -1,7 +1,7 @@
 /**
-*	Main Class -- TestYaMaps
+*	Main Class -- EquipmentYaMaps
 */
-function TestYaMaps()
+function EquipmentYaMaps()
 {
 	//reference to itself
 	var self = this;
