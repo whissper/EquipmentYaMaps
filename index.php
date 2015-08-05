@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="utf-8" />
+	<title> testYaMaps </title>
+	<script type="text/javascript" src="js/jquery-1.11.1.js"></script>
+	<link rel="stylesheet" type="text/css" href="styles/style.css" />
+	<script type="text/javascript" src="js/js.cookie.js"></script>
+	<script src="https://api-maps.yandex.ru/2.0-stable/?load=package.standard&lang=ru-RU" type="text/javascript"> </script>
+	<script type="text/javascript" src="js/own.js"></script>
+</head>
+
+<body>
+	<div id="mymap"></div>
+	
+	<div id="light_cover"></div>
+
+	<div id="specific_info_frame"></div>
+</body>
+
+</html>
