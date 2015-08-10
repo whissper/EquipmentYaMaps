@@ -55,7 +55,7 @@ body {
 	padding: 10px;
 }
 
-#btn_close_holder {
+#btn_close_holder, #btn_back_holder {
 	width: 100px;
 	float: right;
 	cursor: pointer;
@@ -64,8 +64,12 @@ body {
 	text-align: center;
 }
 
-#btn_close_holder:hover {
+#btn_close_holder:hover, #btn_back_holder:hover {
 	background-color: #618dbc;
+}
+
+#btn_back_holder {
+	margin-right: 5px;
 }
 
 .ownerlistitem, .equipcatitem{
